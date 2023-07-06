@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarayman100&label=Profile%20views&color=0e75b6&style=flat" alt="omarayman100" /> </p>
 
 <p align="left"> <a href="https://twitter.com/redangerrr" target="blank"><img src="https://img.shields.io/twitter/follow/redangerrr?logo=twitter&style=for-the-badge" alt="redangerrr" /></a> </p>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="img"/>
 
 - The notes app created using React is a powerful tool that allows users to create and manage notes in a simple and intuitive way [Notes App](https://notes-app-two-liart.vercel.app/)
 

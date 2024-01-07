@@ -10,13 +10,9 @@
 
 - 🌱 I’m currently learning **Next JS ,Node JS advanced level**
 
-- 👯 I’m looking to collaborate on [The Bazar Store](https://bazar-store.vercel.app/)
-
 - 🤝 I’m looking for help with creating a live e-commerce react store **the EGY**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1k192DZN6eJn3CC8zAcu98xI7i-nNEeHt/view?usp=drive_link](https://drive.usercontent.google.com/download?id=1D8jxPDTtsioPjdNKcTWNiefVlPR-6oYu&export=download&authuser=0&confirm=t&uuid=6b937cb7-b5d2-4442-be8c-9cad65953e2e&at=APZUnTU5egZHHVwypq1FveD-Lq_E:1701726366253)
-
-- 💬 Ask me about **React and Angular**
+- 💬 Ask me about **React/Next**
 
 - 📫 How to reach me **omar.ayman.fekry@outlook.com**
 
